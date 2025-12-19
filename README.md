@@ -1,7 +1,3 @@
-Got it. Below is a **clean, professional, recruiter-grade `README.md`** with a **custom ASCII banner for `0x57Origin`**, your exact info integrated, and no fluff. You can paste this directly into the **special profile repo** (`0x57Origin/README.md`).
-
----
-
 ```md
                           )                       
      )     (  (      ) ( /(                       
@@ -12,7 +8,6 @@ Got it. Below is a **clean, professional, recruiter-grade `README.md`** with a *
 | () |\ \ / |__ \ / / | (_) | '_| / _` || | ' \)) 
  \__/ /_\_\ |___//_/   \___/|_| |_\__, ||_|_||_|  
                                   |___/           
-
                                                        
 ```
 
