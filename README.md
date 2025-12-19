@@ -66,4 +66,3 @@ Currently learning through hands-on projects and coursework.
 
 > Still learning, still experimenting, and documenting progress as I go.
 
-```
