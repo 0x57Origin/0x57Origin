@@ -15,8 +15,7 @@
 **Cybersecurity student interested in CTFs and security tooling.**
 Currently learning through hands-on projects and coursework.
 **Master’s student in Cybersecurity**
-USA
-**[0x57Origin@proton.me](mailto:0x57Origin@proton.me)**
+> USA **[0x57Origin@proton.me](mailto:0x57Origin@proton.me)**
 
 ---
 
