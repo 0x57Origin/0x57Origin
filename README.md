@@ -15,13 +15,12 @@
 **Cybersecurity student interested in CTFs and security tooling.**
 Currently learning through hands-on projects and coursework.
 **Master’s student in Cybersecurity**
-
-📍 USA
-📧 **[0x57Origin@proton.me](mailto:0x57Origin@proton.me)**
+USA
+**[0x57Origin@proton.me](mailto:0x57Origin@proton.me)**
 
 ---
 
-## 🧠 Current Interests
+##  Current Interests
 
 * Reverse engineering fundamentals (Ghidra)
 * Building beginner-friendly CTF challenges
@@ -31,7 +30,7 @@ Currently learning through hands-on projects and coursework.
 
 ---
 
-## 🔧 Projects
+##  Projects
 
 * **NimPacket**
   A learning-focused packet manipulation library for Nim that works with Ethernet, IPv4, TCP, UDP, and ICMP.
@@ -43,11 +42,11 @@ Currently learning through hands-on projects and coursework.
   Personal repository for reverse engineering exercises, experiments, and notes.
 
 * **PenTest-WriteUps**
-  Notes and writeups documenting labs, CTFs, and cybersecurity learning progress.
+  Notes and write-ups documenting labs, CTFs, and cybersecurity learning progress.
 
 ---
 
-## 🌐 Links
+##  Links
 
 * Website: [https://0x57origin.vercel.app/](https://0x57origin.vercel.app/)
 * Dev.to: [https://dev.to/0x57origin](https://dev.to/0x57origin)
@@ -57,9 +56,9 @@ Currently learning through hands-on projects and coursework.
 
 ---
 
-## 🏆 GitHub
+##  GitHub
 
-* 🦈 **Pull Shark** – Opened and merged pull requests
+*  **Pull Shark** – Opened and merged pull requests
 * Regular commits across learning projects and experiments
 
 ---
