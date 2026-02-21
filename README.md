@@ -1,40 +1,46 @@
-___       __________Origin
-  / _ \  __ / /_  __/__  /__  ___  ______(_)___ _(_)___
- | | | |/ |/_  / / / _ \/ _ \/ _ \/ ___/ / __ `/ / __ \
- | |_| />  < / / /  __/  __/  __/ /  / / /_/ / / / / /
-  \___//_/|_|/_/  \___/\___/\___/_/  /_/\__, /_/_/ /_/
-                                        /____/
-  0 x 5 7 O r i g i n  ·  h e / h i m
-  -----------------------------------------------
-  Cybersecurity student interested in CTFs and security tooling.
-  Currently learning through hands-on projects and coursework.
-  Master's student in Cybersecurity
-  0x57Origin@proton.me
+```
+  ___  __  ____  ____   ___  ____  ____  __  __ _
+ / _ \( \/ /  _)(__ \  / _ \(  _ \(_  _)/ _)(  ( \
+| (_) ))  /( (_  / _/ | (_) ))(  /  )(  ) _) )  /
+ \___/(__/ \__)(____) \___/(____) (__)(__)(_)__)(__/
+```
 
-  ## Current Interests
-  - Reverse engineering fundamentals (Ghidra)
-  - Building beginner-friendly CTF challenges
-  - Introductory malware analysis in lab environments
-  - Learning low-level networking concepts
-  - Writing small security tools in Nim, C, and C++
+0x57Origin · he/him
 
-  ## Projects
-  **Flag_Hunt**
-  A small collection of beginner reverse engineering challenges designed to practice basic Ghidra workflows.
+Cybersecurity student interested in CTFs and security tooling. Currently learning through hands-on projects and coursework. Master's student in Cybersecurity
+0x57Origin@proton.me
 
-  **RE_VAULT**
-  Personal repository for reverse engineering exercises, experiments, and notes.
+---
 
-  **PenTest-WriteUps**
-  Notes and write-ups documenting labs, CTFs, and cybersecurity learning progress.
+## Current Interests
+- Reverse engineering fundamentals (Ghidra)
+- Building beginner-friendly CTF challenges
+- Introductory malware analysis in lab environments
+- Learning low-level networking concepts
+- Writing small security tools in Nim, C, and C++
 
-  ## Links
-  Website: https://0x57origin.vercel.app/
-  Dev.to: https://dev.to/0x57origin
-  Nim Forum: https://forum.nim-lang.org/profile/0x57Origin
-  LinkedIn: https://www.linkedin.com/in/mohammad-nazmul-82012127b/
+---
 
-  ## GitHub
-  Pull Shark – Opened and merged pull requests
-  Regular commits across learning projects and experiments
-  Still learning, still experimenting, and documenting progress as I go.
+## Projects
+
+**Flag_Hunt**
+A small collection of beginner reverse engineering challenges designed to practice basic Ghidra workflows.
+
+**RE_VAULT**
+Personal repository for reverse engineering exercises, experiments, and notes.
+
+**PenTest-WriteUps**
+Notes and write-ups documenting labs, CTFs, and cybersecurity learning progress.
+
+---
+
+## Links
+- Website: https://0x57origin.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/mohammad-nazmul-82012127b/
+
+---
+
+## GitHub
+Pull Shark – Opened and merged pull requests
+Regular commits across learning projects and experiments
+Still learning, still experimenting, and documenting progress as I go.
