@@ -19,7 +19,7 @@ Cybersecurity student interested in CTFs and security tooling. Currently learnin
 - Building beginner-friendly CTF challenges
 - Introductory malware analysis in lab environments
 - Learning low-level networking concepts
-- Writing small security tools in Nim, C, and C++
+- Writing small security tools in Python, C, and C++
 
 ---
 
